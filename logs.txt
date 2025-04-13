@@ -1,0 +1,28 @@
+*   efe5a48 (HEAD -> master, origin/master) Merge branch '3-list-tasks-sorted-by-name'
+|\
+| * 9816cf3 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Issue Solved
+* |   06028a5 Merge pull request #10 from MaKo-21/2-find-all-completed-tasks
+|\ \
+| * | e6e7fee (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Issue solved
+| |/
+* |   b13d31b Merge pull request #11 from MaKo-21/9-sort-tasks-by-priority
+|\ \
+| |/
+|/|
+| * acbb21f (origin/9-sort-tasks-by-priority, 9-sort-tasks-by-priority) Issue Solved
+:...skipping...
+*   efe5a48 (HEAD -> master, origin/master) Merge branch '3-list-tasks-sorted-by-name'
+|\
+| * 9816cf3 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Issue Solved
+* |   06028a5 Merge pull request #10 from MaKo-21/2-find-all-completed-tasks
+|\ \
+| * | e6e7fee (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Issue solved
+| |/
+* |   b13d31b Merge pull request #11 from MaKo-21/9-sort-tasks-by-priority
+|\ \
+| |/
+|/|
+| * acbb21f (origin/9-sort-tasks-by-priority, 9-sort-tasks-by-priority) Issue Solved
+|/
+* c00f1ce Add starter code
+* 43d7955 Initial commit

@@ -1,0 +1,36 @@
+git init
+//Inicijalizacija na prazniot direktorium
+git remote add origin https://github.com/MaKo-21/SI_2025_lab1_233034.git
+//Povrzuvanje so remote repoto
+git add README.md
+//Stagenam go readmeto
+git commit -m "Initial commit"
+//Commitam go so porakata
+git add SI2025LAB1Main.java
+//Stagenam go java fileo
+git commit -m "Add starter code"
+//Commitam go java fileo so porakata
+git push -u origin master
+//Sinhronizaciaj
+git fetch origin
+//Da gi dobijam grankite
+git checkout 2-find-all-completed-tasks
+//Da idam na grankata na vtorio issue
+git commit -am "Issue solved"
+//Da commitam toa so go opraviv
+git push origin 2-find-all-completed-tasks
+//Da gi sinhroniziram
+git commit -am "Issue solved"
+//Da commitam toa so go opraviv
+git push origin 9-sort-tasks-by-priority
+//Da gi sinhroniziram
+git commit -am "Issue solved"
+//Da commitam toa so go opraviv
+git push origin 3-list-tasks-sorted-by-name
+//Da gi sinhroniziram
+20. Nemashe konflikt na nikoj, i se mergena spored rekurzivno
+git checkout master
+git pull
+git merge 3-list-tasks-sorted-by-name
+22. Nemashe konflikt i se mergena spored rekurzivno
+git push
